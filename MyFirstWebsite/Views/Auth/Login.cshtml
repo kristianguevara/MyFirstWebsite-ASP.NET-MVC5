@@ -1,0 +1,20 @@
+﻿@model MyFirstWebsite.Models.Users
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Log In</h2>
+<p>@Html.ActionLink("Click here to view the public list", "Index")</p>
+@Html.ValidationSummary(true)
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(u => u.Email)<br/>
+    @Html.TextBoxFor(u => u.Email)<br/>
+    @Html.LabelFor(u => u.Password)<br/>
+    @Html.PasswordFor(u => u.Password)<br/>
+    <p>
+       <button type="submit">Log In</button>
+    </p>
+
+}

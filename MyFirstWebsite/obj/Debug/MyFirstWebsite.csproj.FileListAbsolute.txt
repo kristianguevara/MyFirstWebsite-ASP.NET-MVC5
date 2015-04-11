@@ -1,0 +1,62 @@
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\MyFirstWebsite.dll.config
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\MyFirstWebsite.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\MyFirstWebsite.pdb
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\Owin.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Helpers.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Mvc.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Razor.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Webpages.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Razor.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Webpages.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Helpers.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\System.Web.Mvc.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\obj\Debug\MyFirstWebsite.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\obj\Debug\MyFirstWebsite.pdb
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\EntityFramework.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\EntityFramework.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\MyFirstWebsite\MyFirstWebsite\obj\Debug\MyFirstWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\MyFirstWebsite.dll.config
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\MyFirstWebsite.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\MyFirstWebsite.pdb
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\EntityFramework.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\Microsoft.Owin.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\Owin.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Helpers.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Mvc.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Razor.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Webpages.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\EntityFramework.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\Microsoft.Owin.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Razor.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Webpages.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Helpers.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\bin\System.Web.Mvc.xml
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\obj\Debug\MyFirstWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\obj\Debug\MyFirstWebsite.dll
+C:\Users\Kristian\Documents\GitHub\MyFirstWebsite-ASP.NET-MVC5\MyFirstWebsite\obj\Debug\MyFirstWebsite.pdb

@@ -1,0 +1,29 @@
+﻿@model List<MyFirstWebsite.Models.Lists>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Public List</h2>
+<p>@Html.ActionLink("Click here to Login","Login")</p>
+<table class="table table-bordered table-condensed">
+    <thead>
+        <tr>
+            <th style="text-align: center;">Id</th>
+            <th style="text-align: center;">Details</th>
+            <th style="text-align: center;">Time - Date Posted</th>
+            <th style="text-align: center;">Time - Date Edited</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="text-align: center;">@Html.DisplayFor(modelItem => item.Id)</td>
+                <td style="text-align: center;">@Html.DisplayFor(modelItem => item.Details)</td>
+                <td style="text-align: center;">@Html.DisplayFor(modelItem => item.Time_Posted) - @Html.DisplayFor(modelItem => item.Date_Posted)</td>
+                <td style="text-align: center;">@Html.DisplayFor(modelItem => item.Time_Edited) - @Html.DisplayFor(modelItem => item.Date_Edited)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
